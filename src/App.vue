@@ -2,7 +2,7 @@
   <div id="app">
     <h1>APP</h1>
 
-    <keep-alive :include="$store.getters.keepArr">
+    <keep-alive :include="$store.getters['vueRouterNavigate/keepRouter']">
       <router-view/>
     </keep-alive>
 
@@ -18,6 +18,7 @@ export default {
     }
   },
   created(){
+    console.log("this.$store", this.$store.getters);
   }
 }
 </script>
