@@ -10,6 +10,8 @@
 
 # 🌟 如有帮助，请点个star
 
+# [npm 地址](https://www.npmjs.com/package/vue-router-navigate)
+
 
 ## Project setup
 ```
