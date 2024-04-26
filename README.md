@@ -8,6 +8,8 @@
 
 `navigateTo`、`redirectTo`、`reLaunch`参数 和 router.push 方法一致
 
+# 🌟 如有帮助，请点个star
+
 
 ## Project setup
 ```
